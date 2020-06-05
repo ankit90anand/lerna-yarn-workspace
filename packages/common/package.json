@@ -2,5 +2,9 @@
   "name": "@workspace/common",
   "version": "1.0.3",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
 }
